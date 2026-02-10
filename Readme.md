@@ -2,6 +2,7 @@
 
 * Студент: [Евгений Архипкин](https://up.htmlacademy.ru/htmlcss-individual/2/user/1806037).
 * Наставник: `Неизвестно`.
+* Сайт: [Мой проект Седона](https://firstbrorussia.github.io/1806037-sedona-2/)
 
 ---
 
